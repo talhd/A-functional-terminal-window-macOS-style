@@ -1,4 +1,5 @@
 # A functional terminal window macOS style
-
-![Screenshot](screenshot_2.gif)
-![Screenshot](screenshot.gif)
+<p align="center">
+  ![Screenshot](screenshot_2.gif)
+  ![Screenshot](screenshot.gif)
+</p>
