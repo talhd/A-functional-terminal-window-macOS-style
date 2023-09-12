@@ -1,5 +1,3 @@
-# A functional terminal window macOS style
 <p align="center">
-  ![Screenshot](screenshot_2.gif)
-  ![Screenshot](screenshot.gif)
+  <img src="demo.gif" alt="animated" />
 </p>
